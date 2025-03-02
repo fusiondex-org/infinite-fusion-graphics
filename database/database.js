@@ -134,9 +134,9 @@ const insertDexEntries = (db, dexEntries) => {
     const transaction = db.transaction(() => {
       dexEntries.forEach(({ sprite, entry, author }) => {
         const spriteId = sprite.replace(".png", "");
-        const dexEntry = entry.replace("#", "_")
+        const updatedAuthor = author.replaceAll("#", "_")
         // console.log(`Inserting dex entry for sprite_id: ${spriteId}`);
-        insertDexEntry.run(spriteId, dexEntry, author);
+        insertDexEntry.run(spriteId, entry, updatedAuthor);
       });
     });
     transaction();
