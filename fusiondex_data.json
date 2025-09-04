@@ -1,0 +1,1133 @@
+{
+  "Luvdisc": {
+    "id": "501",
+    "fullName": "Luvdisc",
+    "types": [
+      "WATER"
+    ],
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "speed": 97,
+    "specialAttack": 40,
+    "specialDefense": 65,
+    "total": 330,
+    "height": "60 cm",
+    "weight": "8.7 kg",
+    "category": "Rendezvous Pokémon"
+  },
+  "Poochyena": {
+    "id": "502",
+    "fullName": "Poochyena",
+    "types": [
+      "DARK"
+    ],
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "speed": 35,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "total": 220,
+    "height": "50 cm",
+    "weight": "13.6 kg",
+    "category": "Bite Pokémon"
+  },
+  "Mightyena": {
+    "id": "503",
+    "fullName": "Mightyena",
+    "types": [
+      "DARK"
+    ],
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "speed": 70,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "total": 420,
+    "height": "100 cm",
+    "weight": "37 kg",
+    "category": "Bite Pokémon"
+  },
+  "Zigzagoon": {
+    "id": "504",
+    "fullName": "Zigzagoon",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "speed": 60,
+    "specialAttack": 30,
+    "specialDefense": 41,
+    "total": 240,
+    "height": "40 cm",
+    "weight": "17.5 kg",
+    "category": "Tiny Raccoon Pokémon"
+  },
+  "Linoone": {
+    "id": "505",
+    "fullName": "Linoone",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "speed": 100,
+    "specialAttack": 50,
+    "specialDefense": 61,
+    "total": 420,
+    "height": "50 cm",
+    "weight": "32.5 kg",
+    "category": "Rushing Pokémon"
+  },
+  "Wurmple": {
+    "id": "506",
+    "fullName": "Wurmple",
+    "types": [
+      "BUG"
+    ],
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "speed": 20,
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "total": 195,
+    "height": "30 cm",
+    "weight": "3.6 kg",
+    "category": "Worm Pokémon"
+  },
+  "Silcoon": {
+    "id": "507",
+    "fullName": "Silcoon",
+    "types": [
+      "BUG"
+    ],
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "speed": 15,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "total": 205,
+    "height": "60 cm",
+    "weight": "10 kg",
+    "category": "Cocoon Pokémon"
+  },
+  "Beautifly": {
+    "id": "508",
+    "fullName": "Beautifly",
+    "types": [
+      "BUG",
+      "FLYING"
+    ],
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "speed": 65,
+    "specialAttack": 100,
+    "specialDefense": 50,
+    "total": 395,
+    "height": "100 cm",
+    "weight": "28.4 kg",
+    "category": "Butterfly Pokémon"
+  },
+  "Cascoon": {
+    "id": "509",
+    "fullName": "Cascoon",
+    "types": [
+      "BUG"
+    ],
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "speed": 15,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "total": 205,
+    "height": "70 cm",
+    "weight": "11.5 kg",
+    "category": "Cocoon Pokémon"
+  },
+  "Dustox": {
+    "id": "510",
+    "fullName": "Dustox",
+    "types": [
+      "BUG",
+      "POISON"
+    ],
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "speed": 65,
+    "specialAttack": 50,
+    "specialDefense": 90,
+    "total": 385,
+    "height": "120 cm",
+    "weight": "31.6 kg",
+    "category": "Poison Moth Pokémon"
+  },
+  "Seedot": {
+    "id": "511",
+    "fullName": "Seedot",
+    "types": [
+      "GRASS"
+    ],
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "speed": 30,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "total": 220,
+    "height": "50 cm",
+    "weight": "4 kg",
+    "category": "Acorn Pokémon"
+  },
+  "Nuzleaf": {
+    "id": "512",
+    "fullName": "Nuzleaf",
+    "types": [
+      "GRASS",
+      "DARK"
+    ],
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "speed": 60,
+    "specialAttack": 60,
+    "specialDefense": 40,
+    "total": 340,
+    "height": "100 cm",
+    "weight": "28 kg",
+    "category": "Wily Pokémon"
+  },
+  "Shiftry": {
+    "id": "513",
+    "fullName": "Shiftry",
+    "types": [
+      "GRASS",
+      "DARK"
+    ],
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "speed": 80,
+    "specialAttack": 90,
+    "specialDefense": 60,
+    "total": 480,
+    "height": "130 cm",
+    "weight": "59.6 kg",
+    "category": "Wicked Pokémon"
+  },
+  "Taillow": {
+    "id": "514",
+    "fullName": "Taillow",
+    "types": [
+      "NORMAL",
+      "FLYING"
+    ],
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "speed": 85,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "total": 270,
+    "height": "30 cm",
+    "weight": "2.3 kg",
+    "category": "Tiny Swallow Pokémon"
+  },
+  "Swellow": {
+    "id": "515",
+    "fullName": "Swellow",
+    "types": [
+      "NORMAL",
+      "FLYING"
+    ],
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "speed": 125,
+    "specialAttack": 75,
+    "specialDefense": 50,
+    "total": 455,
+    "height": "70 cm",
+    "weight": "19.8 kg",
+    "category": "Swallow Pokémon"
+  },
+  "Wingull": {
+    "id": "516",
+    "fullName": "Wingull",
+    "types": [
+      "WATER",
+      "FLYING"
+    ],
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "speed": 85,
+    "specialAttack": 55,
+    "specialDefense": 30,
+    "total": 270,
+    "height": "60 cm",
+    "weight": "9.5 kg",
+    "category": "Seagull Pokémon"
+  },
+  "Pelipper": {
+    "id": "517",
+    "fullName": "Pelipper",
+    "types": [
+      "WATER",
+      "FLYING"
+    ],
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "speed": 65,
+    "specialAttack": 95,
+    "specialDefense": 70,
+    "total": 440,
+    "height": "120 cm",
+    "weight": "28 kg",
+    "category": "Water Bird Pokémon"
+  },
+  "Surskit": {
+    "id": "518",
+    "fullName": "Surskit",
+    "types": [
+      "BUG",
+      "WATER"
+    ],
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "speed": 65,
+    "specialAttack": 50,
+    "specialDefense": 52,
+    "total": 269,
+    "height": "50 cm",
+    "weight": "1.7 kg",
+    "category": "Pond Skater Pokémon"
+  },
+  "Masquerain": {
+    "id": "519",
+    "fullName": "Masquerain",
+    "types": [
+      "BUG",
+      "FLYING"
+    ],
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "speed": 80,
+    "specialAttack": 100,
+    "specialDefense": 82,
+    "total": 454,
+    "height": "80 cm",
+    "weight": "3.6 kg",
+    "category": "Eyeball Pokémon"
+  },
+  "Whismur": {
+    "id": "520",
+    "fullName": "Whismur",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "speed": 28,
+    "specialAttack": 51,
+    "specialDefense": 23,
+    "total": 240,
+    "height": "60 cm",
+    "weight": "16.3 kg",
+    "category": "Whisper Pokémon"
+  },
+  "Loudred": {
+    "id": "521",
+    "fullName": "Loudred",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "speed": 48,
+    "specialAttack": 71,
+    "specialDefense": 43,
+    "total": 360,
+    "height": "100 cm",
+    "weight": "40.5 kg",
+    "category": "Big Voice Pokémon"
+  },
+  "Exploud": {
+    "id": "522",
+    "fullName": "Exploud",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "speed": 68,
+    "specialAttack": 91,
+    "specialDefense": 73,
+    "total": 490,
+    "height": "150 cm",
+    "weight": "84 kg",
+    "category": "Loud Noise Pokémon"
+  },
+  "Makuhita": {
+    "id": "523",
+    "fullName": "Makuhita",
+    "types": [
+      "FIGHTING"
+    ],
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "speed": 25,
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "total": 237,
+    "height": "100 cm",
+    "weight": "86.4 kg",
+    "category": "Guts Pokémon"
+  },
+  "Hariyama": {
+    "id": "524",
+    "fullName": "Hariyama",
+    "types": [
+      "FIGHTING"
+    ],
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "speed": 50,
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "total": 474,
+    "height": "230 cm",
+    "weight": "253.8 kg",
+    "category": "Arm Thrust Pokémon"
+  },
+  "Skitty": {
+    "id": "525",
+    "fullName": "Skitty",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "speed": 50,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "total": 260,
+    "height": "60 cm",
+    "weight": "11 kg",
+    "category": "Kitten Pokémon"
+  },
+  "Delcatty": {
+    "id": "526",
+    "fullName": "Delcatty",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "speed": 90,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "total": 400,
+    "height": "110 cm",
+    "weight": "32.6 kg",
+    "category": "Prim Pokémon"
+  },
+  "Meditite": {
+    "id": "527",
+    "fullName": "Meditite",
+    "types": [
+      "FIGHTING",
+      "PSYCHIC"
+    ],
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "speed": 60,
+    "specialAttack": 40,
+    "specialDefense": 55,
+    "total": 280,
+    "height": "60 cm",
+    "weight": "11.2 kg",
+    "category": "Meditate Pokémon"
+  },
+  "Medicham": {
+    "id": "528",
+    "fullName": "Medicham",
+    "types": [
+      "FIGHTING",
+      "PSYCHIC"
+    ],
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "speed": 80,
+    "specialAttack": 60,
+    "specialDefense": 75,
+    "total": 410,
+    "height": "130 cm",
+    "weight": "31.5 kg",
+    "category": "Meditate Pokémon"
+  },
+  "Electrike": {
+    "id": "529",
+    "fullName": "Electrike",
+    "types": [
+      "ELECTRIC"
+    ],
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "speed": 65,
+    "specialAttack": 65,
+    "specialDefense": 40,
+    "total": 295,
+    "height": "60 cm",
+    "weight": "15.2 kg",
+    "category": "Lightning Pokémon"
+  },
+  "Manectric": {
+    "id": "530",
+    "fullName": "Manectric",
+    "types": [
+      "ELECTRIC"
+    ],
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "speed": 105,
+    "specialAttack": 105,
+    "specialDefense": 60,
+    "total": 475,
+    "height": "150 cm",
+    "weight": "40.2 kg",
+    "category": "Discharge Pokémon"
+  },
+  "Plusle": {
+    "id": "531",
+    "fullName": "Plusle",
+    "types": [
+      "ELECTRIC"
+    ],
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "speed": 95,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "total": 405,
+    "height": "40 cm",
+    "weight": "4.2 kg",
+    "category": "Cheering Pokémon"
+  },
+  "Minun": {
+    "id": "532",
+    "fullName": "Minun",
+    "types": [
+      "ELECTRIC"
+    ],
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "speed": 95,
+    "specialAttack": 75,
+    "specialDefense": 85,
+    "total": 405,
+    "height": "40 cm",
+    "weight": "4.2 kg",
+    "category": "Cheering Pokémon"
+  },
+  "Volbeat": {
+    "id": "533",
+    "fullName": "Volbeat",
+    "types": [
+      "BUG"
+    ],
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "speed": 85,
+    "specialAttack": 47,
+    "specialDefense": 85,
+    "total": 430,
+    "height": "70 cm",
+    "weight": "17.7 kg",
+    "category": "Firefly Pokémon"
+  },
+  "Illumise": {
+    "id": "534",
+    "fullName": "Illumise",
+    "types": [
+      "BUG"
+    ],
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "speed": 85,
+    "specialAttack": 73,
+    "specialDefense": 85,
+    "total": 430,
+    "height": "60 cm",
+    "weight": "17.7 kg",
+    "category": "Firefly Pokémon"
+  },
+  "Gulpin": {
+    "id": "535",
+    "fullName": "Gulpin",
+    "types": [
+      "POISON"
+    ],
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "speed": 40,
+    "specialAttack": 43,
+    "specialDefense": 53,
+    "total": 302,
+    "height": "40 cm",
+    "weight": "10.3 kg",
+    "category": "Stomach Pokémon"
+  },
+  "Swalot": {
+    "id": "536",
+    "fullName": "Swalot",
+    "types": [
+      "POISON"
+    ],
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "speed": 55,
+    "specialAttack": 73,
+    "specialDefense": 83,
+    "total": 467,
+    "height": "170 cm",
+    "weight": "80 kg",
+    "category": "Poison Bag Pokémon"
+  },
+  "Numel": {
+    "id": "537",
+    "fullName": "Numel",
+    "types": [
+      "FIRE",
+      "GROUND"
+    ],
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "speed": 35,
+    "specialAttack": 65,
+    "specialDefense": 45,
+    "total": 305,
+    "height": "70 cm",
+    "weight": "24 kg",
+    "category": "Numb Pokémon"
+  },
+  "Camerupt": {
+    "id": "538",
+    "fullName": "Camerupt",
+    "types": [
+      "FIRE",
+      "GROUND"
+    ],
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "speed": 40,
+    "specialAttack": 105,
+    "specialDefense": 75,
+    "total": 460,
+    "height": "190 cm",
+    "weight": "220 kg",
+    "category": "Eruption Pokémon"
+  },
+  "Spoink": {
+    "id": "539",
+    "fullName": "Spoink",
+    "types": [
+      "PSYCHIC"
+    ],
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "speed": 60,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "total": 330,
+    "height": "70 cm",
+    "weight": "30.6 kg",
+    "category": "Bounce Pokémon"
+  },
+  "Grumpig": {
+    "id": "540",
+    "fullName": "Grumpig",
+    "types": [
+      "PSYCHIC"
+    ],
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "speed": 80,
+    "specialAttack": 90,
+    "specialDefense": 110,
+    "total": 470,
+    "height": "90 cm",
+    "weight": "71.5 kg",
+    "category": "Manipulate Pokémon"
+  },
+  "Spinda": {
+    "id": "541",
+    "fullName": "Spinda",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 60,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "total": 360,
+    "height": "110 cm",
+    "weight": "5 kg",
+    "category": "Spot Panda Pokémon"
+  },
+  "Zangoose": {
+    "id": "542",
+    "fullName": "Zangoose",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "speed": 90,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "total": 458,
+    "height": "130 cm",
+    "weight": "40.3 kg",
+    "category": "Cat Ferret Pokémon"
+  },
+  "Seviper": {
+    "id": "543",
+    "fullName": "Seviper",
+    "types": [
+      "POISON"
+    ],
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "speed": 65,
+    "specialAttack": 100,
+    "specialDefense": 60,
+    "total": 458,
+    "height": "270 cm",
+    "weight": "52.5 kg",
+    "category": "Fang Snake Pokémon"
+  },
+  "Lunatone": {
+    "id": "544",
+    "fullName": "Lunatone",
+    "types": [
+      "ROCK",
+      "PSYCHIC"
+    ],
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "speed": 70,
+    "specialAttack": 95,
+    "specialDefense": 85,
+    "total": 460,
+    "height": "100 cm",
+    "weight": "168 kg",
+    "category": "Meteorite Pokémon"
+  },
+  "Solrock": {
+    "id": "545",
+    "fullName": "Solrock",
+    "types": [
+      "ROCK",
+      "PSYCHIC"
+    ],
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "speed": 70,
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "total": 460,
+    "height": "120 cm",
+    "weight": "154 kg",
+    "category": "Meteorite Pokémon"
+  },
+  "Barboach": {
+    "id": "546",
+    "fullName": "Barboach",
+    "types": [
+      "WATER",
+      "GROUND"
+    ],
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "speed": 60,
+    "specialAttack": 46,
+    "specialDefense": 41,
+    "total": 288,
+    "height": "40 cm",
+    "weight": "1.9 kg",
+    "category": "Whiskers Pokémon"
+  },
+  "Whiscash": {
+    "id": "547",
+    "fullName": "Whiscash",
+    "types": [
+      "WATER",
+      "GROUND"
+    ],
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "speed": 60,
+    "specialAttack": 76,
+    "specialDefense": 71,
+    "total": 468,
+    "height": "90 cm",
+    "weight": "23.6 kg",
+    "category": "Whiskers Pokémon"
+  },
+  "Corphish": {
+    "id": "548",
+    "fullName": "Corphish",
+    "types": [
+      "WATER"
+    ],
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "speed": 35,
+    "specialAttack": 50,
+    "specialDefense": 35,
+    "total": 308,
+    "height": "60 cm",
+    "weight": "11.5 kg",
+    "category": "Ruffian Pokémon"
+  },
+  "Crawdaunt": {
+    "id": "549",
+    "fullName": "Crawdaunt",
+    "types": [
+      "WATER",
+      "DARK"
+    ],
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "speed": 55,
+    "specialAttack": 90,
+    "specialDefense": 55,
+    "total": 468,
+    "height": "110 cm",
+    "weight": "32.8 kg",
+    "category": "Rogue Pokémon"
+  },
+  "Baltoy": {
+    "id": "550",
+    "fullName": "Baltoy",
+    "types": [
+      "GROUND",
+      "PSYCHIC"
+    ],
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "speed": 55,
+    "specialAttack": 40,
+    "specialDefense": 70,
+    "total": 300,
+    "height": "50 cm",
+    "weight": "21.5 kg",
+    "category": "Clay Doll Pokémon"
+  },
+  "Claydol": {
+    "id": "551",
+    "fullName": "Claydol",
+    "types": [
+      "GROUND",
+      "PSYCHIC"
+    ],
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "speed": 75,
+    "specialAttack": 70,
+    "specialDefense": 120,
+    "total": 500,
+    "height": "150 cm",
+    "weight": "108 kg",
+    "category": "Clay Doll Pokémon"
+  },
+  "Castform": {
+    "id": "552",
+    "fullName": "Castform",
+    "types": [
+      "NORMAL"
+    ],
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "total": 420,
+    "height": "30 cm",
+    "weight": "0.8 kg",
+    "category": "Weather Pokémon"
+  },
+  "Castform Sunny Form": {
+    "id": "553",
+    "fullName": "Castform Sunny Form",
+    "types": [
+      "FIRE"
+    ],
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "total": 420,
+    "height": "30 cm",
+    "weight": "0.8 kg",
+    "category": "Weather Pokémon"
+  },
+  "Castform Rainy Form": {
+    "id": "554",
+    "fullName": "Castform Rainy Form",
+    "types": [
+      "WATER"
+    ],
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "total": 420,
+    "height": "30 cm",
+    "weight": "0.8 kg",
+    "category": "Weather Pokémon"
+  },
+  "Castform Snowy Form": {
+    "id": "555",
+    "fullName": "Castform Snowy Form",
+    "types": [
+      "ICE"
+    ],
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "total": 420,
+    "height": "30 cm",
+    "weight": "0.8 kg",
+    "category": "Weather Pokémon"
+  },
+  "Tropius": {
+    "id": "556",
+    "fullName": "Tropius",
+    "types": [
+      "GRASS",
+      "FLYING"
+    ],
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "speed": 51,
+    "specialAttack": 72,
+    "specialDefense": 87,
+    "total": 460,
+    "height": "200 cm",
+    "weight": "100 kg",
+    "category": "Fruit Pokémon"
+  },
+  "Chingling": {
+    "id": "557",
+    "fullName": "Chingling",
+    "types": [
+      "PSYCHIC"
+    ],
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "speed": 45,
+    "specialAttack": 65,
+    "specialDefense": 50,
+    "total": 285,
+    "height": "20 cm",
+    "weight": "0.6 kg",
+    "category": "Bell Pokémon"
+  },
+  "Chimecho": {
+    "id": "558",
+    "fullName": "Chimecho",
+    "types": [
+      "PSYCHIC"
+    ],
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "speed": 65,
+    "specialAttack": 95,
+    "specialDefense": 90,
+    "total": 455,
+    "height": "60 cm",
+    "weight": "1 kg",
+    "category": "Wind Chime Pokémon"
+  },
+  "Spheal": {
+    "id": "559",
+    "fullName": "Spheal",
+    "types": [
+      "ICE",
+      "WATER"
+    ],
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "speed": 25,
+    "specialAttack": 55,
+    "specialDefense": 50,
+    "total": 290,
+    "height": "80 cm",
+    "weight": "39.5 kg",
+    "category": "Clap Pokémon"
+  },
+  "Sealeo": {
+    "id": "560",
+    "fullName": "Sealeo",
+    "types": [
+      "ICE",
+      "WATER"
+    ],
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "speed": 45,
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "total": 410,
+    "height": "110 cm",
+    "weight": "87.6 kg",
+    "category": "Ball Roll Pokémon"
+  },
+  "Walrein": {
+    "id": "561",
+    "fullName": "Walrein",
+    "types": [
+      "ICE",
+      "WATER"
+    ],
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "speed": 65,
+    "specialAttack": 95,
+    "specialDefense": 90,
+    "total": 530,
+    "height": "140 cm",
+    "weight": "150.6 kg",
+    "category": "Ice Break Pokémon"
+  },
+  "Clamperl": {
+    "id": "562",
+    "fullName": "Clamperl",
+    "types": [
+      "WATER"
+    ],
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "speed": 32,
+    "specialAttack": 74,
+    "specialDefense": 55,
+    "total": 345,
+    "height": "40 cm",
+    "weight": "52.5 kg",
+    "category": "Bivalve Pokémon"
+  },
+  "Huntail": {
+    "id": "563",
+    "fullName": "Huntail",
+    "types": [
+      "WATER"
+    ],
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "speed": 52,
+    "specialAttack": 94,
+    "specialDefense": 75,
+    "total": 485,
+    "height": "170 cm",
+    "weight": "27 kg",
+    "category": "Deep Sea Pokémon"
+  },
+  "Gorebyss": {
+    "id": "564",
+    "fullName": "Gorebyss",
+    "types": [
+      "WATER"
+    ],
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "speed": 52,
+    "specialAttack": 114,
+    "specialDefense": 75,
+    "total": 485,
+    "height": "180 cm",
+    "weight": "22.6 kg",
+    "category": "South Sea Pokémon"
+  },
+  "Relicanth": {
+    "id": "565",
+    "fullName": "Relicanth",
+    "types": [
+      "WATER",
+      "ROCK"
+    ],
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "speed": 55,
+    "specialAttack": 45,
+    "specialDefense": 65,
+    "total": 485,
+    "height": "100 cm",
+    "weight": "23.4 kg",
+    "category": "Longevity Pokémon"
+  }
+}
